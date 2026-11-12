@@ -64,7 +64,7 @@ export default function LoginPage() {
           <div className="max-w-md space-y-4">
             <h2 className="font-headline-md text-3xl font-bold">Secure. Support. Empower.</h2>
             <p className="font-body-lg text-lg text-white/90 leading-relaxed">
-              Join a community dedicated to your safety. Access emergency tools, trusted resources, and a network of support, all in one secure place.
+              Join a community dedicated to your safety. <br>Access emergency tools, trusted resources, and a network of support,<br> all in one secure place.
             </p>
           </div>
         </div>
